@@ -12,7 +12,7 @@
     "prepack": "npm run build"
   },
   "dependencies": {
-    "marked": "^4.0.16",
+    "marked": "^4.2.12",
     "sanitize-html": "^2.7.2"
   },
   "keywords": [
