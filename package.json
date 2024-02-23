@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "marked": "^4.0.16",
-    "sanitize-html": "^2.7.2"
+    "sanitize-html": "^2.12.1"
   },
   "keywords": [
     "serve",
